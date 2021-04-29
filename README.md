@@ -6,7 +6,7 @@ Purpose:
 
         This program functions as a "radar" by classifying flying
         objects as either a bird or an airplane given data pertaining
-        to the object's velocity. Classifications are made via an
+        to the objects' velocity. Classifications are made via an
         implementation of a Naive Bayesian Classifier.
 
 

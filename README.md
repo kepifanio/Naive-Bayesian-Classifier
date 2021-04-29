@@ -1,6 +1,6 @@
 # Naive-Bayesian-Classifier
-# Written by: Katherine Epifanio
-# Date: 04-27-21
+## Written by: Katherine Epifanio
+## Date: 04-27-21
 
 
 Purpose:
